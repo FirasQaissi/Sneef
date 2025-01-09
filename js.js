@@ -18,6 +18,7 @@ here.style.display = 'flex'
 here.style.margin='auto'
 here.style.marginTop='5%'
 here.style.flexWrap='wrap'
+here.style.flexWrap='wrap'
 
 
 const inputss = document.createElement('input')
