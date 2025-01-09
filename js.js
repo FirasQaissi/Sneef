@@ -13,6 +13,7 @@ const here = document.createElement('div')
 here.style.width = '75%'
 here.style.height = '75%'
 here.style.display = 'flex'
+here.style.display = 'flex'
 
 here.style.margin='auto'
 here.style.marginTop='5%'
